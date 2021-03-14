@@ -154,13 +154,20 @@ header nav {
   text-decoration: none;
   color: #b8c1ec;
 }
+#contact {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 50px 40px;
+  background-color: #232946;
+}
 footer {
   text-align: center;
   padding: 20px 0px;
-  color: #eebbc3;
-  background-color: #232946;
+  color: #232946;
+  background-color: #eebbc3;
 }
 footer a {
   text-decoration: none;
-  color: #eebbc3;
+  color: #232946;
 }
